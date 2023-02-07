@@ -1,3 +1,9 @@
+Original reposritory    
+https://github.com/GeertBellekens/Enterprise-Architect-Toolpack      
+
+Original site:    
+https://bellekens.com/product/bellekens-enterprise-architect-toolpack/     
+
 ## Enterprise Architect Toolpack
 
 by Geert Bellekens (geert@bellekens.com)  
